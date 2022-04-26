@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#container{
+	width: 20%;
+	border: 1px solid black;
+	border-radius: 20px;
+	margin: 30px auto;
+	padding-bottom: 10px;
+	background: #2E2E2E;
+}
+.botoes{
+	margin: 2px 0px;
+}
